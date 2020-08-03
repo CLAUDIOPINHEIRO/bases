@@ -1,0 +1,169 @@
+seq;termos;associacao;sinonimos
+1;conta;produto;conta corrente
+2;conta;produto;minha conta
+3;conta;servico;conta pessoal
+4;conta;produto;conta pessoa fisica
+5;conta;produto;conta PJ
+6;conta;produto;Conta juridica
+7;conta;produto;Conta pf
+8;conta;produto;contas
+9;conta;produto;conta corrente
+10;conta;servico;conta corrente
+11;conta;produto;conta pessoal
+12;conta;produto;conta conjunta
+13;conta;produto;conta salario
+14;conta;produto;conta salario
+15;conta;produto;conta pessoa fisica 
+16;conta;servico;conta corrente
+17;conta;produto;minha conta
+18;conta;produto;conta pessoal
+19;conta;servico;conta pessoa fisica
+20;conta;produto;conta corrente
+21;conta;produto;conta corrente
+22;conta;servico;conta pessoal
+23;conta;produto;conta conjunta
+24;conta;produto;conta salario
+25;conta;produto;conta salario
+26;conta;produto;conta pessoa fisica 
+27;conta;produto;conta corrente
+28;conta;produto;minha conta
+29;conta;servico;conta pessoal
+30;conta;produto;conta pessoa fisica
+31;conta;produto;conta corrente
+32;conta;produto;minha conta
+33;conta;produto;conta pessoal
+34;conta;produto;conta pessoa fisica
+35;conta;servico;conta PJ
+36;conta;produto;Conta juridica
+37;conta;produto;Conta pf
+38;conta;servico;contas
+39;conta;produto;conta corrente
+40;conta;produto;conta corrente
+41;conta;servico;conta pessoal
+42;conta;produto;conta corrente
+43;conta;produto;minha conta
+44;conta;produto;conta pessoal
+45;conta;produto;conta pessoa fisica
+46;conta;produto;conta PJ
+47;conta;produto;Conta juridica
+48;conta;servico;Conta pf
+49;conta;produto;contas
+50;conta;produto;conta corrente
+51;conta;produto;conta corrente
+52;conta;produto;conta pessoal
+53;conta;produto;conta conjunta
+54;conta;servico;conta salario
+55;conta;produto;conta salario
+56;conta;produto;conta pessoa fisica 
+57;conta;servico;conta corrente
+58;conta;produto;minha conta
+59;conta;produto;conta pessoal
+60;conta;servico;conta pessoa fisica
+61;conta;produto;conta corrente
+62;conta;produto;conta corrente
+63;conta;produto;conta pessoal
+64;conta;produto;conta conjunta
+65;conta;produto;conta salario
+66;conta;produto;conta salario
+67;conta;servico;conta pessoa fisica 
+68;conta;produto;conta corrente
+69;conta;produto;minha conta
+70;conta;produto;conta pessoal
+71;conta;produto;conta pessoa fisica
+72;conta;produto;conta PJ
+73;conta;servico;Conta juridica
+74;conta;produto;Conta pf
+75;conta;produto;contas
+76;conta;servico;conta corrente
+77;conta;produto;conta corrente
+78;conta;produto;conta pessoal
+79;conta;servico;conta conjunta
+80;conta;produto;conta salario
+81;conta;produto;conta salario
+82;conta;produto;conta pessoa fisica 
+83;conta;produto;conta corrente
+84;conta;produto;minha conta
+85;conta;produto;conta pessoal
+86;conta;servico;conta pessoa fisica
+87;conta;produto;conta corrente
+88;conta;produto;conta corrente
+89;conta;produto;conta pessoal
+90;conta;produto;conta conjunta
+91;conta;produto;conta salario
+92;conta;servico;conta salario
+93;conta;produto;conta pessoa fisica 
+94;cartao;produto;cartao de credito
+95;cartao;produto;cartao de debito
+96;cartao;produto;cartao pessoal
+97;cartao;produto;cartao black
+98;cartao;produto;cartao visa
+99;cartao;produto;cartao master 
+100;cartao;produto;visa
+101;cartao;produto;master
+102;cartao;produto;milhas
+103;cartao;servico;pontos
+104;cartao;servico;fatura
+105;cartao;operacao;erro
+106;cartao;operacao;bloqueado
+107;cartao;servico;liberado
+108;cartao;servico;liberado
+109;cartao;servico;limite
+110;cartao;produto;adicional
+111;cartao;produto;cartao de credito
+112;cartao;produto;cartao de debito
+113;cartao;produto;cartao pessoal
+114;cartao;produto;cartao black
+115;cartao;produto;cartao visa
+116;cartao;produto;cartao master 
+117;cartao;produto;visa
+118;cartao;produto;master
+119;cartao;produto;milhas
+120;cartao;servico;pontos
+121;cartao;servico;fatura
+122;cartao;operacao;erro
+123;cartao;operacao;bloqueado
+124;cartao;servico;liberado
+125;cartao;servico;liberado
+126;cartao;servico;limite
+127;cartao;produto;adicional
+128;cartao;produto;visa
+129;cartao;produto;master
+130;cartao;produto;milhas
+131;cartao;servico;pontos
+132;cartao;servico;fatura
+133;cartao;operacao;erro
+134;cartao;produto;cartao de credito
+135;cartao;produto;cartao de debito
+136;cartao;produto;cartao pessoal
+137;cartao;produto;cartao de credito
+138;cartao;produto;cartao de debito
+139;cartao;produto;cartao pessoal
+140;cartao;produto;cartao de credito
+141;cartao;produto;cartao de debito
+142;cartao;produto;cartao pessoal
+143;cartao;produto;cartao black
+144;cartao;produto;cartao visa
+145;cartao;produto;cartao master 
+146;cartao;produto;visa
+147;cartao;produto;master
+148;cartao;produto;milhas
+149;cartao;servico;pontos
+150;cartao;servico;fatura
+151;cartao;operacao;erro
+152;cartao;operacao;bloqueado
+153;cartao;servico;liberado
+154;cartao;servico;liberado
+155;cartao;servico;limite
+156;cartao;produto;adicional
+157;cartao;produto;visa
+158;cartao;produto;master
+159;cartao;produto;milhas
+160;cartao;servico;pontos
+161;cartao;servico;fatura
+162;cartao;operacao;erro
+163;cartao;produto;cartao de credito
+164;cartao;produto;cartao de debito
+165;cartao;produto;cartao pessoal
+166;cartao;produto;cartao de credito
+167;cartao;produto;cartao de debito
+168;cartao;produto;cartao pessoal
